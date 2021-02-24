@@ -1,5 +1,5 @@
 # Release_PassiveScan
-###### 图形自动化安全测试工具
+###### 图形自动化安全测试工具【被动扫描器】
 
 [下载地址](https://github.com/yu2lulu/Release_PassiveScan/releases/)
 
