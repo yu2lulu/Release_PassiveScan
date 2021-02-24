@@ -1,6 +1,7 @@
 # Release_PassiveScan
 ###### 图形自动化安全测试工具
 
+[下载地址](https://github.com/yu2lulu/Release_PassiveScan/releases/)
 
 ## 目前支持如下功能:
 - 一键SQL注入扫描 ✅
@@ -13,13 +14,11 @@
 - 支持敏感信息目录/文件 扫描 ✅
 
 ## 截图
-![]()
-![]()
-![]()
-![]()
-![]()
-## 下载地址
-[下载地址](https://github.com/yu2lulu/Release_PassiveScan/releases/)
+![](https://github.com/yu2lulu/Release_PassiveScan/blob/main/img/secplugins.jpg)
+![](https://github.com/yu2lulu/Release_PassiveScan/blob/main/img/model.jpg)
+![](https://github.com/yu2lulu/Release_PassiveScan/blob/main/img/sensiveRule.jpg)
+![](https://github.com/yu2lulu/Release_PassiveScan/blob/main/img/xss.png)
+
 
 
 
